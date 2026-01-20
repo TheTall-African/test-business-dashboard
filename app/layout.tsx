@@ -1,6 +1,6 @@
 import '@/app/ui/global.css';
 import {lusi} from '@/app/ui/fonts';
-import { inter } from '@/app/ui/fonts';
+
  
 export default function RootLayout({
   children,
